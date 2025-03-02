@@ -1,0 +1,14 @@
+>> hope for "amx_opt" not to fill in things like "option1", "option2" and so on, but you can add options two three four and so on with expectations like: "option1 option2 option3" (in one string line only).
+    ```json
+        {
+            "amx_opt": "-d0",
+            "allow_subdir": "/pawno/include",
+            "ppman_dir": "pawno",
+            "ppman_subdir": "include",
+            "ppman_type": "urllib3",
+            "ai_token": "",
+            "ai_model": "",
+            "ai_biodata": "",
+            "ai_json_get": ""
+        }
+    ```

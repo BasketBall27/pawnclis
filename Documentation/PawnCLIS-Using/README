@@ -1,0 +1,20 @@
+Using
+-----
+    rename your "*.pwn" -> "*.io.pwn" or "*.io.p" or another.
+    --
+    using `paw -c` to default compile mode
+    --
+    Before compiling, please create a data.json file in the pawnclis file area and its contents as expected, example:
+    ```json
+        {
+            "amx_opt": "-d0",
+            "allow_subdir": "/pawno/include",
+            "ppman_dir": "pawno",
+            "ppman_subdir": "include",
+            "ppman_type": "urllib3",
+            "ai_token": "",
+            "ai_model": "",
+            "ai_biodata": "",
+            "ai_json_get": ""
+        }
+    ```

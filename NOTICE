@@ -1,0 +1,23 @@
+ooooooooo.                                            .oooooo.   ooooo        ooooo  .oooooo..o 
+`888   `Y88.                                         d8P'  `Y8b  `888'        `888' d8P'    `Y8 
+ 888   .d88'  .oooo.   oooo oooo    ooo ooo. .oo.   888           888          888  Y88bo.      
+ 888ooo88P'  `P  )88b   `88. `88.  .8'  `888P"Y88b  888           888          888   `"Y8888o.  
+ 888          .oP"888    `88..]88..8'    888   888  888           888          888       `"Y88b 
+ 888         d8(  888     `888'`888'     888   888  `88b    ooo   888       o  888  oo     .d8P 
+o888o        `Y888""8o     `8'  `8'     o888o o888o  `Y8bood8P'  o888ooooood8 o888o 8""88888P'  
+                                                                                                
+                                                                                                
+Pawn Code Command Line Shell (PawnCLIS)
+>> Features:
+    * compilator,
+        * package manager,
+            * tool server.
+>> Required Linux: 
+    * Python3 - "sudo apt install python3"
+        * pip python {urllib3} - "sudo apt install python3-pip", "pip install urllib3"
+            * cURL - "sudo apt install curl"
+>> Required Windows:
+    * WSL/Git Bash - "scoop install extras/wslgit"
+        * Python3 - "scoop install versions/python313"
+            * pip python {urllib3} - "pip install urllib3"
+                * cURL - "scoop install main/curl"
